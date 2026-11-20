@@ -1,9 +1,5 @@
 # GitHub Palestra Rocco
 
-Questo repository mi serve per imparare Git e GitHub.
+HO ROTTO TUTTO 😄
 
-## Obiettivi
-- Imparare a usare i commit
-- Capire i branch
-- Imparare a tornare a una versione precedente
-- Pubblicare un piccolo progetto
+Questo contenuto non doveva essere modificato.
